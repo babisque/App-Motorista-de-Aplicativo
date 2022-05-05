@@ -1,0 +1,13 @@
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\bin\Debug\AppMotorista.exe.config
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\bin\Debug\AppMotorista.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\bin\Debug\AppMotorista.pdb
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\obj\Debug\AppMotorista.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\obj\Debug\AppMotorista.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\obj\Debug\AppMotorista.AppDeMotorista.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\obj\Debug\AppMotorista.Properties.Resources.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\obj\Debug\AppMotorista.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\obj\Debug\AppMotorista.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\obj\Debug\AppMotorista.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\obj\Debug\AppMotorista.pdb
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\obj\Debug\AppMotorista.RelatorioGeral.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\AppMotorista\obj\Debug\AppMotorista.Detalhes.resources
